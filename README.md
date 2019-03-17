@@ -1,2 +1,2 @@
 # basicAlgori
-# exercise for basic algorithm
+* exercise for basic algorithm
